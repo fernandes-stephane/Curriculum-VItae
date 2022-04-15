@@ -4,5 +4,4 @@ You can download it [here](https://github.com/fernandes-stephane/Curriculum-VIta
 
 
 | ![page1](src/cv.pdf) |
-| --------------------------------- |
-|                                   |
+| --------------------------------- |                                   
